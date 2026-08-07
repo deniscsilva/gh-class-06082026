@@ -4,3 +4,6 @@
 2. Execute o script.sh
 3. Verifique os logs em '/var/log/app.log'
 4. Execute testes automatizados com `./run-tests.sh`
+
+### Adicionando proteção na main
+1. Necessário haver ao menos um aprovador
