@@ -7,3 +7,6 @@
 
 ### Adicionando proteção na main
 1. Necessário haver ao menos um aprovador
+
+### Mudança de código
+1. Necessário realizar o review do código
