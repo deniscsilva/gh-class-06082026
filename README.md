@@ -7,3 +7,8 @@
 
 ### Adicionando proteção na main
 1. Necessário haver ao menos um aprovador
+
+
+### Deploy-2
+1. Executar script `deploy2.sh`
+2. Verificar logs
