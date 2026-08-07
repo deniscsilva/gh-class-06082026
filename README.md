@@ -5,6 +5,10 @@
 3. Verifique os logs em '/var/log/app.log'
 4. Execute testes automatizados com `./run-tests.sh
 
+### Deploy-2
+1. Executar script `deploy2.sh`
+2. Verificar logs
+
 ### Melhorias no README.md
 1. Instale as dependencias `npm install`
 2. Configute as variaveis de ambiente
@@ -16,3 +20,4 @@
 
 ### Mudança de código
 1. Necessário realizar o review do código
+
