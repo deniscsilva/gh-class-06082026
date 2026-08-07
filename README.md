@@ -10,3 +10,10 @@
 
 ### Mudança de código
 1. Necessário realizar o review do código
+
+### Melhorias no README.md
+1. Instale as dependencias `npm install`
+2. Configute as variaveis de ambiente
+3. Execute os testes: `npm install` 
+4. Inicie o servidor `npm start`
+
